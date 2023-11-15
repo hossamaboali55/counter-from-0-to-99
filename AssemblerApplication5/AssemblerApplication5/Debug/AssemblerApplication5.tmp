@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\Debug\AssemblerApplication5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication5.map</FILE>
+  <FILE>AssemblerApplication5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L2><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>13</LINE></L2>
+  <L1><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>18</LINE></L1>
+  <Delay><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>34</LINE></Delay>
+  <HERE><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>28</LINE></HERE>
+  <FINISH><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>33</LINE></FINISH>
+  <Loop3><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>35</LINE></Loop3>
+  <Loop2><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>36</LINE></Loop2>
+  <Loop1><FILE>E:\University\Projects\Microcontroller\AssemblerApplication5\AssemblerApplication5\main.asm</FILE><LINE>37</LINE></Loop1>
+ </LABELS>
+</ASSEMBLER_INFO>
